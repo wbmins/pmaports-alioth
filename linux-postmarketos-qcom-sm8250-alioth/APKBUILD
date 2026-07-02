@@ -5,7 +5,7 @@
 _flavor="postmarketos-qcom-sm8250-alioth"
 pkgname=linux-$_flavor
 pkgver=6.19.6
-pkgrel=1
+pkgrel=2
 pkgdesc="Mainline kernel fork for SM8250"
 arch="aarch64"
 _carch="arm64"
